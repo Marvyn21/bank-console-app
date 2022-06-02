@@ -1,0 +1,12 @@
+D:\ASP .NET CORE\MySuperBank\BankingStuff\bin\Debug\net6.0\BankingStuff.deps.json
+D:\ASP .NET CORE\MySuperBank\BankingStuff\bin\Debug\net6.0\BankingStuff.dll
+D:\ASP .NET CORE\MySuperBank\BankingStuff\bin\Debug\net6.0\BankingStuff.pdb
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.csproj.AssemblyReference.cache
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.AssemblyInfoInputs.cache
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.AssemblyInfo.cs
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.csproj.CoreCompileInputs.cache
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.dll
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\refint\BankingStuff.dll
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\BankingStuff.pdb
+D:\ASP .NET CORE\MySuperBank\BankingStuff\obj\Debug\net6.0\ref\BankingStuff.dll

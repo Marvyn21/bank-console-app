@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MySuperBank/1.0.0": {
-        "dependencies": {
-          "BankingStuff": "1.0.0"
-        },
-        "runtime": {
-          "MySuperBank.dll": {}
-        }
-      },
       "BankingStuff/1.0.0": {
         "runtime": {
           "BankingStuff.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "MySuperBank/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "BankingStuff/1.0.0": {
       "type": "project",
       "serviceable": false,

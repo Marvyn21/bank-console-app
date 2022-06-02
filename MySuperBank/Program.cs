@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using BankingStuff;
 using System;
 
 namespace MySuperBank
@@ -12,6 +13,10 @@ namespace MySuperBank
 
             account.MakeWithdrawal(120, DateTime.Now, "Hammock");
             account.MakeWithdrawal(50, DateTime.Now, "Xbox");
+            account.MakeWithdrawal(5, DateTime.Now, "Coffe");
+            account.MakeWithdrawal(130, DateTime.Now, "Diet Coke");
+            account.MakeWithdrawal(10, DateTime.Now, "Tea");
+            account.MakeWithdrawal(70, DateTime.Now, "Plants");
 
             Console.WriteLine(account.GetAccountHistory());
 

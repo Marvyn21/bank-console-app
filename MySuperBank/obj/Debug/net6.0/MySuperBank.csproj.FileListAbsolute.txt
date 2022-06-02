@@ -13,3 +13,6 @@ D:\ASP .NET CORE\MySuperBank\MySuperBank\obj\Debug\net6.0\refint\MySuperBank.dll
 D:\ASP .NET CORE\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.pdb
 D:\ASP .NET CORE\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
 D:\ASP .NET CORE\MySuperBank\MySuperBank\obj\Debug\net6.0\ref\MySuperBank.dll
+D:\ASP .NET CORE\MySuperBank\MySuperBank\bin\Debug\net6.0\BankingStuff.dll
+D:\ASP .NET CORE\MySuperBank\MySuperBank\bin\Debug\net6.0\BankingStuff.pdb
+D:\ASP .NET CORE\MySuperBank\MySuperBank\obj\Debug\net6.0\MySuperBank.csproj.CopyComplete

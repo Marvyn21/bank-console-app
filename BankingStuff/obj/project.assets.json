@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "BankingStuff/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BankingStuff.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BankingStuff.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "BankingStuff/1.0.0": {
-      "type": "project",
-      "path": "../BankingStuff/BankingStuff.csproj",
-      "msbuildProject": "../BankingStuff/BankingStuff.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "BankingStuff >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\MARVIN\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET CORE\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
-      "projectName": "MySuperBank",
-      "projectPath": "D:\\ASP .NET CORE\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+      "projectUniqueName": "D:\\ASP .NET CORE\\MySuperBank\\BankingStuff\\BankingStuff.csproj",
+      "projectName": "BankingStuff",
+      "projectPath": "D:\\ASP .NET CORE\\MySuperBank\\BankingStuff\\BankingStuff.csproj",
       "packagesPath": "C:\\Users\\MARVIN\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET CORE\\MySuperBank\\MySuperBank\\obj\\",
+      "outputPath": "D:\\ASP .NET CORE\\MySuperBank\\BankingStuff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\ASP .NET CORE\\MySuperBank\\BankingStuff\\BankingStuff.csproj": {
-              "projectPath": "D:\\ASP .NET CORE\\MySuperBank\\BankingStuff\\BankingStuff.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
