@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i4DcB76IdTEy5jq3cwBGPyjmFYkovPpGWJsrHXhsZucLlsGuYjMKKhGk6n8l3QjcbvVOay4jhCrGZX5J1rx+Tg==",
+  "dgSpecHash": "VZrnvmfLFJdRjGOBjrAYnLiBDEvs2l2cdYxLrl2fOU6NLCN6UEBvTl/+F90rEwxCI4Gh871aKIE07yil9BFWTA==",
   "success": true,
   "projectFilePath": "D:\\ASP .NET CORE\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MARVIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
   "logs": []
 }

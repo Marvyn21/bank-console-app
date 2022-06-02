@@ -3,12 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Humanizer;
 
 namespace BankingStuff
 {
     public class Transaction
     {
         public decimal Amount { get; }
+        public string AmountForHumans { 
+            get
+            {
+               return ((int)Amount).ToWords();
+            }
+         }
         public DateTime Date { get; }
         public string Notes { get; }
 
